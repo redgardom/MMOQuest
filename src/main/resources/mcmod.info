@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "MMOQuests",
+    "name": "MMO Quests",
+    "description": "Add quest from npc (with gui)",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["redgardom"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": []
+  }
+]
